@@ -10,4 +10,4 @@ fantasy sports application tailored to Tunisian fans. By developing the Tunisian
 API, we aim to provide a platform that not only enhances fan engagement but also
 celebrates the rich football culture of Tunisia. This project seeks to bring the excitement
 of fantasy sports to the Tunisian Ligue 1, enabling fans to connect with their favorite
-teams and players in a more engaging and meaningful way
+teams and players in a more engaging and meaningful way.
